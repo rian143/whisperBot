@@ -1,8 +1,7 @@
-BOT_TOKEN = " "
-
+BOT_TOKEN = " 5834609424:AAEbkzrdotIWrs1NP2ICU4b8AWyumBYeSow "
 # EXAMPLE: BOT_TOKEN = "5953961340:AAFiBeDXt7Yb10ShbV2O5z2oCzVTgjEK43g"
 
-START_PIC = " "
+START_PIC = " https://telegra.ph/file/6a41ca307689cddc88825.jpg "
 
 # ENTER LINK OF PIC !
 
